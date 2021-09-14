@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajdipGhosh99
+- 👋 Hi, I’m Rajdip Ghosh
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning ful-stack devlopment
 - 💞️ I’m looking to collaborate on open source contributions
